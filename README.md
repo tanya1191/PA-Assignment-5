@@ -14,7 +14,7 @@ The following parameters are optimized in this project:
 
 1.nu(C): the parameter that controls the number of support vectors used in the model.
 
-2,kernel: the kernel function used for the SVM algorithm.
+2.kernel: the kernel function used for the SVM algorithm.
 
 3.epsilon(gamma): the margin of error allowed in the SVM algorithm.
 
@@ -29,7 +29,7 @@ Number of Instances: 14980
 Number of Attributes: 15
 
 # Final Result Table
-![image](https://user-images.githubusercontent.com/76492020/233191945-c1b284cb-e765-4381-851c-f99ed9869b2b.png)
+![WhatsApp Image 2023-04-20 at 02 35 55](https://user-images.githubusercontent.com/76492020/233200025-3eeeac4e-f1b3-444b-8e26-70ea4cac840d.jpg)
 
 # Convergence Graph
 <img width="649" alt="image" src="https://user-images.githubusercontent.com/76492020/233193984-8faa5c4e-5b1c-4067-92d3-33db2ecac8f1.png">
