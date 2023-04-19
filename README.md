@@ -1,12 +1,24 @@
 # Parameter_Optimization_of_SVM
 ## Assignment 5 for UCS654 Predictive Analysis
 
-### About SVM and Parameter Optimization
+## About SVM and Parameter Optimization
+
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
 
 Some of the most important parameters of SVM such as kernel, C, Nu,epsilon and gamma can be changed in order to achieve a higher accuracy. This is called as Hyperparameter Tuning.
 
 In this python file, I've used a Fitness Function to optimize the parameters.
+
+## Parameters Optimized
+The following parameters are optimized in this project:
+
+1.nu(C): the parameter that controls the number of support vectors used in the model.
+
+2,kernel: the kernel function used for the SVM algorithm.
+
+3.epsilon(gamma): the margin of error allowed in the SVM algorithm.
+
+## Dataset
 
 The dataset for the project has been downloaded from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
