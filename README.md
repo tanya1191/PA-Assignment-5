@@ -26,10 +26,10 @@ Number of Attributes: 15
 
 The best parameters of SVC for the given dataset are:
 
-Kernel : sigmoid
+Kernel : rbf
 
-Nu : 9.59
+Nu : 0.18
 
-Epsilon : 3.44
+Epsilon : 0.69
 
 The above parameter gave a maximum accuracy of 0.88.
