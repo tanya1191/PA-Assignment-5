@@ -44,4 +44,4 @@ Nu : 0.18
 
 Epsilon : 0.69
 
-The above parameter gave a maximum accuracy of 0.88.
+The above parameter gave a maximum accuracy of 0.88 for sample 5.
